@@ -1,0 +1,7 @@
+.btn-white
+  {background-color:rgb(254, 254, 254);
+  padding: 10px 15px;
+  border-radius: 15px;
+  font-size: 20px;
+  line-height: 4;
+  opacity: 80%;}
